@@ -214,12 +214,5 @@ public class RestClient<T, U> {
         }
     }
 
-    /**
-     * asdfsdf      .
-     */
-    public void test() {
-        String a = "";
-        a += a;
-    }
 }
 
